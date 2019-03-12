@@ -8,8 +8,9 @@
   "devDependencies": {
     "@commitlint/cli": "^7.0.0",
     "@commitlint/config-conventional": "^7.0.1",
+    "conventional-recommended-bump": "^4.0.4",
     "husky": "^0.14.3",
-    "lerna": "^2.11.0"
+    "lerna": "3.0.0"
   },
   "commitlint": {
     "extends": [
